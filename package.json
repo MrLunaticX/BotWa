@@ -1,0 +1,16 @@
+{
+  "name": "G-Ease",
+  "version": "1.0.0",
+  "description": "Script G-ease Bot Whatsapp",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Lunatic Cultist",
+  "dependencies": {
+    "@hapi/boom": "^10.0.1",
+    "@whiskeysockets/baileys": "github:r-serex/Baileys",
+    "awesome-phonenumber": "^2.64.0",
+    "pino": "^7.0.5"
+  }
+}
